@@ -8,16 +8,16 @@
 
 
 ### 小学1~2年级体育名师课程A
-<video src="https://static.jscode.vip:8088/小学1~2年级体育名师课程A.mp4" controls="controls" width="100%" height="auto">
+<video src="https://static.jscode.vip:8088/小学1~2年级体育名师课程A.mp4" controls="controls" width="100%" height="auto"></video>
 
 
 ### 小学1~2年级体育名师课程B
-<video src="https://static.jscode.vip:8088/小学1~2年级体育名师课程B.mp4" controls="controls" width="100%" height="auto">
+<video src="https://static.jscode.vip:8088/小学1~2年级体育名师课程B.mp4" controls="controls" width="100%" height="auto"></video>
 
 
 ### 小学3~6年级体育名师课程A
-<video src="https://static.jscode.vip:8088/小学3~6年级体育名师课程A.mp4" controls="controls" width="100%" height="auto">
+<video src="https://static.jscode.vip:8088/小学3~6年级体育名师课程A.mp4" controls="controls" width="100%" height="auto"></video>
 
 
 ### 小学3~6年级体育名师课程B
-<video src="https://static.jscode.vip:8088/小学3~6年级体育名师课程A.mp4" controls="controls" width="100%" height="auto">
+<video src="https://static.jscode.vip:8088/小学3~6年级体育名师课程A.mp4" controls="controls" width="100%" height="auto"></video>
