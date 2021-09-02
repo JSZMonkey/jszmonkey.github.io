@@ -5,16 +5,4 @@
 
 ###小学1~2年级体育名师课程A
 
-<video src="ftp://anonymous:jscode.vip@download.jscode.vip:2121/小学1~2年级体育名师课程A.mp4" controls="controls" width="100%" height="auto">
-
-###小学1~2年级体育名师课程B
-	
-<video src="ftp://anonymous:jscode.vip@download.jscode.vip:2121/小学1~2年级体育名师课程B.mp4" controls="controls" width="100%" height="auto">
-
-###小学3~6年级体育名师课程A
-	
-<video src="ftp://anonymous:jscode.vip@download.jscode.vip:2121/小学3~6年级体育名师课程A.mp4" controls="controls" width="100%" height="auto">
-
-###小学3~6年级体育名师课程B
-	
-<video src="ftp://anonymous:jscode.vip@download.jscode.vip:2121/小学3~6年级体育名师课程A.mp4" controls="controls" width="100%" height="auto">
+<video src="http://static.jscode.vip:8088/怪物猎人.1080p.BD中英双字.mp4" controls="controls" width="100%" height="auto">
