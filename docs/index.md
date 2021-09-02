@@ -5,4 +5,4 @@
 
 ###小学1~2年级体育名师课程A
 
-<video src="http://static.jscode.vip:8088/怪物猎人.1080p.BD中英双字.mp4" controls="controls" width="100%" height="auto">
+<video src="https://static.jscode.vip:8088/怪物猎人.1080p.BD中英双字.mp4" controls="controls" width="100%" height="auto">
